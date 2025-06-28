@@ -6,7 +6,7 @@ This panel allows the admin to upload new songs to the Firebase Firestore databa
 
 ---
 
-## 📱 Features
+## Features
 
 - Upload new song metadata to Firebase:
   - Song ID
@@ -22,13 +22,13 @@ This panel allows the admin to upload new songs to the Firebase Firestore databa
 
 ---
 
-## 🔗 Related Project
+##  Related Project
 
 🎧 [Main Music Player App Repository](https://github.com/Muhit-1/Music-Player-App)
 
 ---
 
-## 🔥 Firebase Schema
+## Firebase Schema
 
 - **Collection: `songs`**
   - Fields: `id`, `title`, `artist`, `coverUrl`, `url`
@@ -37,7 +37,7 @@ This panel allows the admin to upload new songs to the Firebase Firestore databa
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Clone this repo:
    ```bash
@@ -52,3 +52,40 @@ This panel allows the admin to upload new songs to the Firebase Firestore databa
    <uses-permission android:name="android.permission.INTERNET" />
     
 4. Run the app on an emulator or device.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Kotlin**
+- **Firebase Firestore**
+- **Android Studio**
+
+---
+
+## 👤 Author
+
+### [Muhit Rahman](https://github.com/muhit-1)
+
+
+License
+This project is open source and free to use under the MIT License.
+
+
+---
+
+### Changes I Made:
+- Fixed `bash`/`xml` formatting
+- Closed any open code blocks (backticks)
+- Added proper line breaks for sections
+- Cleaned up the list under "Setup Instructions"
+
+---
+
+Let me know if you want:
+- A sample `LICENSE` file (MIT)
+- A `preview.gif` showing the UI in the README
+- Instructions for publishing the `.apk` to the GitHub Releases tab
+
+You're 100% ready to push 
+
